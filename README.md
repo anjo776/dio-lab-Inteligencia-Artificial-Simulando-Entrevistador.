@@ -1,7 +1,7 @@
 Funcionalidades principais  
 - **Perguntas dinâmicas:** A inteligência artificial ajusta as perguntas de acordo com suas respostas, simulando um entrevistador de verdade.  
 - **Feedback imediato:** Após cada resposta, são oferecidos comentários sobre clareza, objetividade e impacto.  
-- **Modos de entrevista:**  
+- **Modos de entrevista:** 
   * Profissional (voltado para emprego, estágio ou promoção)  
   * Acadêmico (interpretação para processos de mestrado, doutorado ou bolsas)  
   * Jornalístico (respostas em situações de figura pública ou especialista)  
